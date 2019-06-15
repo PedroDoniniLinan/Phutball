@@ -1,5 +1,5 @@
 # Phutball
-Game in python with GUI and AI implemented
+Board game written in python with GUI (PyGame) and AI implemented (Minmax).
 
 Phutball_project: Folder containing the project with the code implemented.
 
